@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL 5590\\source\\repos\\AnthonyInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFD98B9-F04A-4CB5-83AD-FD644A5E140A}|AnthonyInventario\\AnthonyInventario.csproj|c:\\users\\dell 5590\\source\\repos\\anthonyinventario\\anthonyinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFD98B9-F04A-4CB5-83AD-FD644A5E140A}|AnthonyInventario\\AnthonyInventario.csproj|solutionrelative:anthonyinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFD98B9-F04A-4CB5-83AD-FD644A5E140A}|AnthonyInventario\\AnthonyInventario.csproj|c:\\users\\dell 5590\\source\\repos\\anthonyinventario\\anthonyinventario\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFD98B9-F04A-4CB5-83AD-FD644A5E140A}|AnthonyInventario\\AnthonyInventario.csproj|solutionrelative:anthonyinventario\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFD98B9-F04A-4CB5-83AD-FD644A5E140A}|AnthonyInventario\\AnthonyInventario.csproj|c:\\users\\dell 5590\\source\\repos\\anthonyinventario\\anthonyinventario\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFD98B9-F04A-4CB5-83AD-FD644A5E140A}|AnthonyInventario\\AnthonyInventario.csproj|solutionrelative:anthonyinventario\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 20,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5590\\source\\repos\\AnthonyInventario\\AnthonyInventario\\Inventario.cs",
+              "RelativeDocumentMoniker": "AnthonyInventario\\Inventario.cs",
+              "ToolTip": "C:\\Users\\DELL 5590\\source\\repos\\AnthonyInventario\\AnthonyInventario\\Inventario.cs",
+              "RelativeToolTip": "AnthonyInventario\\Inventario.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:14:47.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5590\\source\\repos\\AnthonyInventario\\AnthonyInventario\\Producto.cs",
+              "RelativeDocumentMoniker": "AnthonyInventario\\Producto.cs",
+              "ToolTip": "C:\\Users\\DELL 5590\\source\\repos\\AnthonyInventario\\AnthonyInventario\\Producto.cs",
+              "RelativeToolTip": "AnthonyInventario\\Producto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:13:26.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5590\\source\\repos\\AnthonyInventario\\AnthonyInventario\\Program.cs",
+              "RelativeDocumentMoniker": "AnthonyInventario\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL 5590\\source\\repos\\AnthonyInventario\\AnthonyInventario\\Program.cs",
+              "RelativeToolTip": "AnthonyInventario\\Program.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAD0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:12:54.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
